@@ -1,5 +1,5 @@
 # guessing_game.py
-geussing game
+# geussing game
 secret_raw = input()
 secret_stripped = secret_raw.strip()
 
